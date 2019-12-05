@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">TabsUpAndDown</string>
+    <string name="title_home" translatable="false">Home</string>
+    <string name="title_dashboard" translatable="false">Dashboard</string>
+    <string name="title_notifications" translatable="false">Notifications</string>
+    <string name="title_cars" translatable="false">Cars</string>
+    <string name="title_flowers" translatable="false">Flowers</string>
+    <string name="title_activity_cars">CarsActivity</string>
+    <string name="tab_cars_1">BMW</string>
+    <string name="tab_cars_2">Toyota</string>
+    <string name="title_activity_flowers">FlowersActivity</string>
+    <string name="tab_flowers_1">Sun Flower</string>
+    <string name="tab_flowers_2">Lilium</string>
+    <string name="tab_flowers_3">Tulipa</string>
+</resources>
